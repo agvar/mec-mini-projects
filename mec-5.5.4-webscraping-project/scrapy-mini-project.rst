@@ -1,4 +1,4 @@
-.. _intro-tutorial:
+ .. _intro-tutorial:
 
 ===================
 Scrapy Mini Project
@@ -111,7 +111,7 @@ How to run our spider
 
 To put our spider to work, go to the project's top level directory and run::
 
-   scrapy crawl quotes
+    
 
 This command runs the spider with name ``quotes`` that we've just added, that
 will send some requests for the ``quotes.toscrape.com`` domain. You will get an output
